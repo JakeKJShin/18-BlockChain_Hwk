@@ -19,7 +19,9 @@ You’ll make the following updates to the provided Python file for this assignm
 
 Below is the result after validating the chain:
 
-(https://github.com/JakeKJShin/18-BlockChain_Hwk/blob/main/Images/Result.PNG)
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/JakeKJShin/18-BlockChain_Hwk/blob/main/Images/Result.PNG"> 
+</p>
 
 ---
 
