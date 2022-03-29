@@ -19,7 +19,7 @@ You’ll make the following updates to the provided Python file for this assignm
 
 Below is the result after validating the chain:
 
-([Starter_Code/pychain.py](https://github.com/JakeKJShin/18-BlockChain_Hwk/blob/main/Images/Result.PNG))
+(https://github.com/JakeKJShin/18-BlockChain_Hwk/blob/main/Images/Result.PNG)
 
 ---
 
