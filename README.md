@@ -15,11 +15,11 @@ You’ll make the following updates to the provided Python file for this assignm
 4. Test the PyChain Ledger by Storing Records.
 
 ---
-## Files
+## Results
 
-Download the following files to help you get started:
+Below is the result after validating the chain:
 
-[Module 18 Homework files](Starter_Code/pychain.py)
+([Starter_Code/pychain.py](https://github.com/JakeKJShin/18-BlockChain_Hwk/blob/main/Images/Result.PNG))
 
 ---
 
